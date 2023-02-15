@@ -4,7 +4,7 @@ This can be used to keep a list of items needed to get while out shopping. It wi
 
 ## Link to deployed application and a screenshot
 ![Shopping-List](https://user-images.githubusercontent.com/117334322/218928908-5a720f0c-a0e8-434e-b00d-17e7b67a3fa7.png)
-
+https://johnnyb90.github.io/Shopping-List/
 
 ## 📝 Note(s)
 
